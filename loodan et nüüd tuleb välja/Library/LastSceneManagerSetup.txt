@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/m\xE4ng.unity"
+  isLoaded: 1
+  isActive: 1
